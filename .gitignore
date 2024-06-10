@@ -1,0 +1,12 @@
+web.config
+include/ost-config.php
+bootstrap.php
+api/cron.bat
+api/cron.vbs
+*-bak
+attachments/*
+include/ost-config.php.bak
+web-bak.config
+web-sample.config
+*bak
+.idea/

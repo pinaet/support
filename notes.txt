@@ -1,0 +1,4 @@
+C:\PHP\php-8.0.28-nts\php manage.php file backends
+C:\PHP\php-8.0.28-nts\php manage.php file migrate --backend D --to F
+
+https://histest.harrowschool.ac.th/support/open.php?topicId=13&email=naet_ph@harrowschool.ac.th&fullname=Naet%20Poonsarakhun
